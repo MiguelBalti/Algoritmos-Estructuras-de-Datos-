@@ -1,0 +1,6 @@
+Para poder compilar el programa de la ruleta se le debe de cambiar las direcciones de las librerias, 
+son dos las que se tienen que cambiar y estan en el programa principal. Ya que se haya cambiado 
+las direcciones el programa va a compilar. Al iniciar el programa pide que se de el dinero con el que 
+se cuenta posteriormente pide ingresar el dinero que se apostara y se despliegan opciones para apostar
+al escoger alguna la ruleta girara y despues de unos segundos dara el resultado, sumando lo que 
+se gano o restando lo perdido. Para volver a jugar se escribe 1 para salir 0. 

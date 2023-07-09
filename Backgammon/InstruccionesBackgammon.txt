@@ -1,0 +1,7 @@
+Para poder compilar el programa del Backgammon se debe cambiar las direcciones de la libreria, 
+en el programa principal hay dos que son ElemCirc y Circular.h, pero dentro de Circular hay otra
+libreria que tambien se debe de cambiar la cual es Bicola.h
+
+Al haber cambiado las direcciones el programa podra compliar, al ser compilado en pantalla se 
+mostrara el tablero y se mostrara el valor de los dados, a lo cual se preguntara en que casilla esta
+la ficha que se quiere mover y a cual se movera.
